@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clicky-game-2/static/css/main.c81199a8.chunk.css",
+    "main.js": "/clicky-game-2/static/js/main.c32eff89.chunk.js",
+    "main.js.map": "/clicky-game-2/static/js/main.c32eff89.chunk.js.map",
+    "runtime-main.js": "/clicky-game-2/static/js/runtime-main.d67a457d.js",
+    "runtime-main.js.map": "/clicky-game-2/static/js/runtime-main.d67a457d.js.map",
+    "static/js/2.b9c6fb10.chunk.js": "/clicky-game-2/static/js/2.b9c6fb10.chunk.js",
+    "static/js/2.b9c6fb10.chunk.js.map": "/clicky-game-2/static/js/2.b9c6fb10.chunk.js.map",
+    "index.html": "/clicky-game-2/index.html",
+    "precache-manifest.8b79388f3038ee20ec29446bf4e3c106.js": "/clicky-game-2/precache-manifest.8b79388f3038ee20ec29446bf4e3c106.js",
+    "service-worker.js": "/clicky-game-2/service-worker.js",
+    "static/css/main.c81199a8.chunk.css.map": "/clicky-game-2/static/css/main.c81199a8.chunk.css.map",
+    "static/js/2.b9c6fb10.chunk.js.LICENSE.txt": "/clicky-game-2/static/js/2.b9c6fb10.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/clicky-game-2/static/media/bojack-header.afb00083.jpeg",
+    "static/media/index.css": "/clicky-game-2/static/media/husk.9001eb9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67a457d.js",
+    "static/js/2.b9c6fb10.chunk.js",
+    "static/css/main.c81199a8.chunk.css",
+    "static/js/main.c32eff89.chunk.js"
+  ]
+}
